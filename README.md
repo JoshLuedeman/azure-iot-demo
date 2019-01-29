@@ -27,5 +27,6 @@ This is a simple demo that I put together. This application will run on a Raspbe
 ![Device Output](http://www.circuitbasics.com/wp-content/uploads/2016/03/Raspberry-Pi-DS18B20-Temperature-Sensor-Tutorial-DS18B20-Raw-Output.png)
 
 The `t=` is the temperature value. For instance, in the example above, `t=28625` is equal to a temperature of 28.625 degrees Celcius.
+
 10. Enter `cd` to return to the root directory.
 11. Upload the temp.py file from this repository to the Raspberry Pi.
