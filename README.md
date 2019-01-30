@@ -30,3 +30,5 @@ The `t=` is the temperature value. For instance, in the example above, `t=28625`
 
 10. Enter `cd` to return to the root directory.
 11. Upload the temp.py file from this repository to the Raspberry Pi.
+
+*Credit for screenshots and steps to test temperature sensor to [Circuit Basics at http://www.circuitbasics.com](http://www.circuitbasics.com/raspberry-pi-ds18b20-temperature-sensor-tutorial/).
